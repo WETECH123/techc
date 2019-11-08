@@ -1,2 +1,2 @@
-# techc
+# techc.chok
 techc
